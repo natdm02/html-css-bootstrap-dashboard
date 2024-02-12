@@ -78,6 +78,11 @@ main{
 .nv_container .studente{
   background-color: #1B72E8;  
 }
+
+.offcanvas.offcanvas-end{
+  width: 100%;
+}
+
 .btn_app{
   padding: 1px 8px;
   border-radius: 20px;
