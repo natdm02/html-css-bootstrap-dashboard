@@ -1,0 +1,32 @@
+
+
+/*********header***********/
+
+header{
+  position: fixed;
+  z-index: 999;
+  height: 60px;
+  top: 0;
+  left: 0;
+  background-color: #F8F9FA;
+}
+
+.no_padding-x{
+  padding: 0;
+}
+
+.bg_search{
+  background-color: #E5E5E5;
+}
+
+.form-control {
+  border-left: 0;
+}
+
+.navbar-collapse {
+  flex-basis: 0;
+}
+
+.orange{
+  color: #FF8F00;
+}
