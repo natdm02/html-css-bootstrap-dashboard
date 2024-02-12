@@ -1,4 +1,7 @@
-
+body{
+font-family: 'Lato', sans-serif;
+font-family: 'Roboto', sans-serif;;
+}
 
 /*********header***********/
 
@@ -23,10 +26,31 @@ header{
   border-left: 0;
 }
 
-.navbar-collapse {
-  flex-basis: 0;
+
+
+
+
+/**** main****/
+/* menu sinistro  */
+
+main{
+  padding-top: 60px;
+  height: 100vh;
+  background-color: #F8F9FA;
+}
+.menu_sx{
+  width: 150px;
+  height: 100%;
+  background-color: #051E34;
+  background-image: url(../img/sidebar-bg.png);
 }
 
-.orange{
-  color: #FF8F00;
+.menu_bot{
+  height: calc(100vh - 200px);
+}
+
+.nv_button{
+  background-color: transparent;
+  border: none;
+  border-radius: 0;
 }
