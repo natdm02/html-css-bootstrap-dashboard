@@ -3,6 +3,21 @@ font-family: 'Lato', sans-serif;
 font-family: 'Roboto', sans-serif;
 }
 
+/* generali  */
+.grey{
+  color: #6C757D;
+}
+.black{
+  color: black;
+}
+.white{
+  color: white;
+}
+.t-14px{
+  font-size: 14px;
+}
+
+
 /*********header***********/
 
 header{
@@ -63,5 +78,16 @@ main{
 .nv_container .studente{
   background-color: #1B72E8;  
 }
+.btn_app{
+  padding: 1px 8px;
+  border-radius: 20px;
+  font-size: 12px;
+  border: none;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+
+
 
 
