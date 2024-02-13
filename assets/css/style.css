@@ -13,6 +13,9 @@ font-family: 'Roboto', sans-serif;
 .white{
   color: white;
 }
+.orange{
+  color: #FF8F00;
+}
 .t-14px{
   font-size: 14px;
 }
@@ -66,16 +69,19 @@ main{
 /***menu centrale *****/
 
 /* studente  */
+
 .nv_button{
   background-color: transparent;
   border: none;
   border-radius: 0;
 }
+
 .nv_container{
   color: white;
   margin: 0 auto;
   overflow-y: auto;
 }
+
 .nv_container .studente{
   background-color: #1B72E8;  
 }
@@ -88,12 +94,10 @@ main{
   background-color: rgba(0, 0, 0, 0.3);
 }
 
-
-
-
 .big-count{
   font-size: 30px;
 }
+
 .d-md-table-cell{
   padding-top: 0;
 }
@@ -102,7 +106,6 @@ main{
   padding: .10rem .5rem;
   font-size: .75rem;
 }
-
 
 tbody img{
   width: 25px;
