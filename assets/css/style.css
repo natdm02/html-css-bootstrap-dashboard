@@ -18,7 +18,7 @@ font-family: 'Roboto', sans-serif;
 }
 
 img{
-  width: 10%;
+  width: 7%;
 }
 
 /*********header***********/
@@ -93,6 +93,17 @@ main{
 .big-count{
   font-size: 30px;
 }
+
+.d-md-table-cell{
+  padding-top: 0;
+}
+
+.btn_mini{
+  padding: .10rem .5rem;
+  font-size: .75rem;
+}
+
+
 
 
 
